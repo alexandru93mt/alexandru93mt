@@ -38,7 +38,7 @@
 
 ---
 
-<img align="left" alt="Alex's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Alex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexandru93mt&show_icons=true&hide_border=true" />
 
 [website]: https://github.com/
 [twitter]: https://twitter.com/
