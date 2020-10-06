@@ -29,8 +29,6 @@
 
 ---
 
-<img align="left" alt="Alex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexandru93mt&show_icons=true&hide_border=true" />
-
 [website]: https://github.com/alexandru93mt
 [twitter]: https://twitter.com/alexandrumt
 [linkedin]: www.linkedin.com/in/alexandru-mt
